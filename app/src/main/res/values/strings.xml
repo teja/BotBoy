@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BotBoy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bluetooth_not_setup_error">BluetoothNotSetupError</string>
+    <string name="title_activity_device_handler">DeviceHandlerActivity</string>
+    <string name="title_activity_ball_detector">BallDetectorActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request_permission">This app requires camera access</string>
+    <string name="camera_error">Can\'t run the app without camera access.</string>
+</resources>
